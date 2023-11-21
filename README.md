@@ -1,2 +1,2 @@
 # event-files
-This rep[o contains materials and supporting materials from our events by different speakers
+This repo contains materials and supporting materials submitted by our speakers from the different events we hold.
